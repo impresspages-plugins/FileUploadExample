@@ -1,0 +1,7 @@
+{
+    "title": "File upload example",
+    "version": "1.0",
+    "name": "FileUploadExample",
+    "description": "Example how to collect file uploads from users",
+    "author": "ImpressPages"
+}
